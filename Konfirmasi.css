@@ -1,0 +1,74 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 691px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 340px;
+  font-weight: 700;
+  margin: 19px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 340px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 396px;
+  width: 451px;
+  margin: 19px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  font-size: 1.125rem;
+  text-transform: none;
+  background-image: none;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.125rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  width: 100%;
+  background-image: none;
+  border-style: solid;
+  font-weight: 400;
+  padding: 9px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-size: 0.875rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-top: 30px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    text-transform: none;
+    padding: 7px 18px;
+  }
+}
